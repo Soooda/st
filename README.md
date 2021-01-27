@@ -12,4 +12,4 @@ The only reason having this repo is for my own convenience. Credits to all those
 ### Scroll Back
 **st-scrollback-0.8.4.diff**
 **st-scrollback-mouse-20191024-a2c479c.diff**
-**st-scrollback-mouse-altscreen-20200416-5703aa0.diff**
+**st-scrollback-mouse-altscreen-20200416-5703aa0.diff** Change `i = 1` to `i = mousescrollincrement`
