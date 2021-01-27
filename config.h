@@ -109,7 +109,7 @@ static const char *colorname[] = {
   [7] = "#bbbbbb", /* white   */
 
   /* 8 bright colors */
-  [8]  = "#999999", /* black   */
+  [8]  = "#888888", /* black   */
   [9]  = "#ff5555", /* red     */
   [10] = "#50fa7b", /* green   */
   [11] = "#f1fa8c", /* yellow  */
