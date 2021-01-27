@@ -9,6 +9,7 @@ The only reason having this repo is for my own convenience. Credits to all those
 * st-desktopentry-0.8.2.diff
 * st-dracula-0.8.2.diff
 * st-hidecursor-0.8.3.diff
+* st-newterm-0.8.2.diff -> ctrl + shift + enter to spawn a new st in the same directory
 ### Scroll Back
 * st-scrollback-0.8.4.diff
 * st-scrollback-mouse-20191024-a2c479c.diff
